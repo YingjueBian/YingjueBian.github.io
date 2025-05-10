@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master's student from the [BME Department](https://www.cmu.edu/bme/), Carnegie Mellon University, currently in the CMU BME Research Program.
+I'm a second-year master's student from the [BME Department](https://www.cmu.edu/bme/), [Carnegie Mellon University](https://www.cmu.edu/), currently in the CMU BME Research Program.
 My research interests include neural engineering, brain-inspired AI, computational neuroscience, brain-computer interfaces, and deep learning.
 
-I am very fortunate to be advised by Prof. Tai Sing Lee from the School of Computer Science and Neuroscience Institute at Carnegie Mellon University.
+I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University.
 During my undergraduate studies, I was advised by Prof. Mohamad Sawan, Chair Professor at Westlake University, and by Assoc. Prof. Sheng Ge from the School of Biomedical Engineering, Southeast University.
 
 A data-driven personal website
