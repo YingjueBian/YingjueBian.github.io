@@ -11,7 +11,7 @@ I'm a second-year master's student from the [BME Department](https://www.cmu.edu
 My research interests include neural engineering, brain-inspired AI, computational neuroscience, brain-computer interfaces, and deep learning.
 
 I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University.
-During my undergraduate studies, I was advised by Prof. Mohamad Sawan, Chair Professor at Westlake University, and by Assoc. Prof. Sheng Ge from the School of Biomedical Engineering, Southeast University.
+During my undergraduate studies, I was advised by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. Sheng Ge from the [School of Biomedical Engineering](https://bme.seu.edu.cn/), Southeast University.
 
 A data-driven personal website
 ======
