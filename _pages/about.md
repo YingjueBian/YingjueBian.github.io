@@ -13,11 +13,70 @@ My research interests include neural engineering, brain-inspired AI, computation
 I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University.
 During my undergraduate studies, I was advised by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. Sheng Ge from the [School of Biomedical Engineering](https://bme.seu.edu.cn/), Southeast University.
 
-**Research & Project**
 
 Research & Project
 ===
-aah
+**Research Summary:** I investigate how brains encode information and how those principles can power next‑generation AI—leveraging deep‑learning digital twins, multimodal neuro‑sensing, and wearable biomechanics. **Interests:** neural interfaces · computational neuroscience · brain‑inspired AI · digital twin modeling · deep learning for biomedical signals · sensorimotor control.
+
+## Research Experience
+
+### Neural Coding of Macaque V4 via Digital‑Twin Modeling  
+*Research Assistant, School of Computer Science & Neuroscience Institute, Carnegie Mellon University — Prof. Tai‑Sing Lee*  
+*Pittsburgh, USA · Sep 2024 – Present*
+
+- Integrated a deep‑learning V4 digital twin with natural‑scene stimuli, validating single‑unit tuning.  
+- Built shape‑vs‑texture stimulus batteries and proposed **Unit Preference Index** & **Distribution Dispersion** metrics.  
+- Mapped V4 selectivity: dispersion correlates with preference (*r* = 0.59, *p* < 0.01) and revealed shifts at texture–shape borders.
+
+### Hands Motor Imagery via Action Observation: An EEG‑fNIRS Study  
+*Visiting Student, CenBRAIN, Westlake University — Prof. Mohamad Sawan*  
+*Hangzhou, China · Jun 2023 – Nov 2023*
+
+- Designed a BCI protocol (motor execution / imagery, picture & video cues) and collected EEG + fNIRS from 42 volunteers.  
+- Performed EEG time‑frequency analysis to characterize task‑specific neural dynamics.  
+- Applied statistical parametric mapping in Nirslab to extract fNIRS correlates of motor imagery.
+
+### Diagnosis of Early‑Stage Parkinson’s Disease via Inertial Sensors  
+*Team Lead, Medical Imaging & AI Lab — Dr. Ping Zhou*  
+*Nanjing, China · Jan 2022 – Apr 2022*
+
+- Built an LSTM‑FCN classifier with MAML, raising diagnostic accuracy from 75 % to 80 %.  
+- Curated & augmented gait data from 110 subjects; executed denoising, axis calibration, period segmentation & zero‑padding.  
+- Benchmarked 1‑D CNN and LSTM models and applied few‑shot transfer learning for clinical robustness.
+
+---
+
+## Projects
+
+### Robust Joint‑Moment Estimation via IMU  
+*Wearable Human Technology, Carnegie Mellon University*  
+*Pittsburgh, USA · Feb 2025 – May 2025*
+
+- Implemented a late‑fusion LSTM + MLP framework with stochastic modality dropout, maintaining RMSE ≤ 0.152 Nm/kg when sensors failed.  
+- Pre‑trained a self‑supervised Transformer on AMASS + MoVi, then fine‑tuned to RMSE = 0.102 Nm/kg (R² = 0.779).  
+- Identified the pelvis IMU as the most informative channel via leave‑one‑subject‑out and transfer‑learning analyses.
+
+### Brain Age Prediction from Structural MRI  
+*SEU Student Research Training Program (SRTP)*  
+*Nanjing, China · Dec 2022 – Nov 2023*
+
+- Harmonised multi‑site T1‑weighted MRI data (OASIS, ADNI, UK Biobank) and built a full preprocessing pipeline (resampling, skull‑strip, N4, affine MNI).  
+- Fine‑tuned a pre‑trained 3‑D CNN with age‑aware smooth‑L1 loss, reducing MAE versus scratch training.
+
+### Blood‑Oxygen Sensor System  
+*Comprehensive Biomedical Design Course, SEU*  
+*Nanjing, China · Sep 2022 – Dec 2022*
+
+- Designed a dual‑wavelength PPG front‑end (555‑timer LED switching, OP07 amplifier, 32 Hz LP + 50 Hz notch filters).  
+- Created a LabVIEW VI for real‑time capture, AC/DC separation, and Q‑value calculation (0.65 – 0.81).  
+- Isolated digital & analog domains to eliminate 50 Hz interference, stabilising the DC baseline for accurate SpO₂.
+
+### Eye‑Tracking Virtual Keyboard BCI  
+*SEU Student Research Training Program (SRTP)*  
+*Nanjing, China · Jan 2021 – Jan 2022*
+
+- Devised a queue‑based DBSCAN variant to cluster streaming gaze points with < 5 ms latency.  
+- Fused centroid trajectories via a Kalman filter, enabling dwell‑based keystroke selection with 90 % character accuracy across 12 users.
 
 A data-driven personal website
 ======
