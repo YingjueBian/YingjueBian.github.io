@@ -18,6 +18,7 @@ Research & Project
 ===
 **Research Summary:** 
 I investigate how brains encode information and how those principles can power next‑generation AI—leveraging deep‑learning digital twins, multimodal neuro‑sensing, and wearable biomechanics. 
+
 **Interests:** 
 neural interfaces · computational neuroscience · brain‑inspired AI · digital twin modeling · deep learning for biomedical signals · sensorimotor control.
 
