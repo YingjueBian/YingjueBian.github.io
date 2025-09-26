@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.e
 
 
 **Research Summary:** 
-My research explores neural and AI representations, aiming to bridge biological and artificial models of perception and cognition. I build digital-twin models of macaque V4, develop multimodal neural decoding with EEG, fNIRS, and wearable sensors, and investigate large-scale pretraining for speech and language. Ultimately, I seek to align and integrate representations across brain and machine, enabling them to inform and advance one another.
+My research explores neural and AI representations, aiming to bridge biological and artificial models of perception and cognition. I use digital-twin models of macaque V4 to explore visual representation, develop multimodal neural decoding with EEG, fNIRS, and wearable sensors, and investigate large-scale pretraining for speech and language. Ultimately, I seek to align and integrate representations across brain and machine, enabling them to inform and advance one another.
 
 **Interests:** 
 Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI · Representation Learning · Multimodal
