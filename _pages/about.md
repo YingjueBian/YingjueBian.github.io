@@ -33,15 +33,15 @@ neural interfaces · computational neuroscience · brain‑inspired AI · digita
 - Used VLMs (Qwen-2.5-VL) to caption maximally driving stimuli, linking semantic descriptors to neural tuning profiles..
 
 ### Hands Motor Imagery via Action Observation: An EEG‑fNIRS Study  
-*Visiting Student, CenBRAIN, Westlake University — Prof. Mohamad Sawan*  
+*Visiting Student, [CenBRAIN](https://cenbrain.westlake.edu.cn/index.htm), [Westlake University](https://www.westlake.edu.cn/) — Prof. [Mohamad Sawan](https://cenbrain.westlake.edu.cn/info/1052/1152.htm)*  
 *Hangzhou, China · Jun 2023 – Nov 2023*
 
-- Proposed a brain-computer interface protocol including motor execution, motor imagery, picture-guided motor imagery, and video-guided motor imagery tasks and collected EEG \& fNIRS data from 42 volunteers.
+- Proposed a brain-computer interface protocol including motor execution, motor imagery, picture-guided motor imagery, and video-guided motor imagery tasks and collected EEG & fNIRS data from 42 volunteers.
 - Conducted time-frequency analysis of EEG data, applying advanced signal processing techniques to investigate neural activity across different frequency bands.
 - Applied statistical parametric mapping to analyze fNIRS data with NIRSlab, investigating brain activity and extracting meaningful neural correlates.
 
 ### Diagnosis of Early‑Stage Parkinson’s Disease via Inertial Sensors  
-*Team Lead, Medical Imaging & AI Lab — Dr. Ping Zhou*  
+*Team Lead, Medical Imaging & AI Lab, Southeast University — Dr. Ping Zhou*  
 *Nanjing, China · Jan 2022 – Apr 2022*
 
 - Developed an LSTM‑FCN classifier with Model‑Agnostic Meta‑Learning (MAML), boosting diagnostic accuracy from 75% to 80%.  
@@ -51,6 +51,11 @@ neural interfaces · computational neuroscience · brain‑inspired AI · digita
 ---
 
 ## Projects
+
+### Large-Scale Multilingual S2ST Corpus Construction and Benchmarking
+*Jul 2025 - Present*
+- **Developed a 100K+ hour multilingual S2ST corpus** from YouTube auto-dubbed multi-track videos, incorporating domain-aware sampling, audio alignment, and quality filtering to address temporal asynchrony and ensure high-quality parallel speech pairs.
+- **Implemented and evaluated a transformer-based end-to-end S2ST baseline** ，using the open-source StreamSpeech (ACL’24) framework, benchmarking offline and simultaneous translation with BLEU, TER, and MCD metrics. 
 
 ### Robust Joint‑Moment Estimation via IMU  
 *Wearable Human Technology, Carnegie Mellon University*  
