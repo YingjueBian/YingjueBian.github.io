@@ -22,7 +22,7 @@ repository               : "https://github.com/YingjueBian?tab=repositories"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Personal.jpg"
+  avatar           : "Personal.png"
   name             : "Yingjue Bian"
   pronouns         : "he/him"  
   bio              : "Second-year master student from the BME Department, CMU. Interested in AI and neuroscience"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yjbian/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
