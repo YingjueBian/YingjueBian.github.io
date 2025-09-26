@@ -11,31 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* M.S. Research in BME, Carnegie Mellon University, 2025 (expected, Eearly Graduation)
+* B.S. in BME, Southeast University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * Carnegie Mellon University
+  * Duties includes: Exploring neural encoding mechanisms in the brain's visual areas using digital twin neuron models, aiming to understand how visual information is represented and processed.
+  * Supervisor: Professor Tai-Sing Lee
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Research Assistant
+  * Westlake University
+  * Duties included: Collected EEG and fNIRS data, and did the time-frequency and spatial parameter mapping for EEG and fNIRS data, respectively.
+  * Supervisor: Professor Mohammad Sawan
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Biomedical / Cognitive
+  * EG/fNIRS Acquisition (BrainVision Recorder)
+  * Inertial Motion Analysis
+* Computational
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
