@@ -11,7 +11,7 @@ authors:
   - S. Tang
   - T.-S. Lee
 paperurl: ""
-status: "Under review"
+category: "Under review"
 ---
 
 **Status:** Under review at *Cerebral Cortex* (2025).
