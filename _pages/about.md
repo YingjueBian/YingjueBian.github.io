@@ -55,15 +55,26 @@ neural interfaces · computational neuroscience · brain‑inspired AI · digita
 ### Large-Scale Multilingual S2ST Corpus Construction and Benchmarking
 *Jul 2025 - Present*
 - **Developed a 100K+ hour multilingual S2ST corpus** from YouTube auto-dubbed multi-track videos, incorporating domain-aware sampling, audio alignment, and quality filtering to address temporal asynchrony and ensure high-quality parallel speech pairs.
-- **Implemented and evaluated a transformer-based end-to-end S2ST baseline** ，using the open-source StreamSpeech (ACL’24) framework, benchmarking offline and simultaneous translation with BLEU, TER, and MCD metrics. 
+- **Implemented and evaluated a transformer-based end-to-end S2ST baseline** ，using the open-source StreamSpeech (ACL’24) framework, benchmarking offline and simultaneous translation with BLEU, TER, and MCD metrics.
+
+### Exploring Unsupervised Pretraining Paradigms for Speech Representation Learning
+*Jul 2025 - Present*
+- **Contrastive and Masked Modeling at Scale** Investigated self-supervised objectives including contrastive learning (e.g., CLIP/BLIP-inspired audio-text alignment) and masked autoencoding (AudioMAE), analyzing their scaling behavior, invariance properties, and downstream transferability.
+- **Autoregressive Pretraining vs. Causal Decoding** Compared autoregressive pretraining approaches (Apple AIM series) with non-causal masked autoencoders, evaluating the potential of causal decoding for temporally coherent speech modeling and its trade-offs against bidirectional masked objectives.
+
+### End-to-End Large Language Model Training and Alignment System
+*Jul 2025 - Aug 2025*
+- Built an end-to-end language model training and alignment pipeline from scratch, including a custom byte-level BPE tokenizer, Transformer implementation, and AdamW-based training loop; pre-trained and fine-tuned a LLaMA-style model on TinyStories and OpenWebText.
+- Developed a scalable data processing pipeline for Common Crawl, incorporating deduplication, filtering, and contamination detection, producing a high-quality training corpus with unified loading and splitting workflows.
+- Applied supervised fine-tuning and RLHF (PPO/DPO) for mathematical reasoning and instruction-following tasks, optimizing KV cache and batching strategies to reduce inference latency and memory usage; achieved stable PPL convergence and significant task performance gains over unaligned baselines.
 
 ### Robust Joint‑Moment Estimation via IMU  
 *Wearable Human Technology, Carnegie Mellon University*  
 *Pittsburgh, USA · Feb 2025 – May 2025*
 
-- Implemented a late‑fusion LSTM + MLP framework with stochastic modality dropout, maintaining RMSE ≤ 0.152 Nm/kg when sensors failed.  
-- Pre‑trained a self‑supervised Transformer on AMASS + MoVi, then fine‑tuned to RMSE = 0.102 Nm/kg (R² = 0.779).  
-- Identified the pelvis IMU as the most informative channel via leave‑one‑subject‑out and transfer‑learning analyses.
+- Implemented a Late Fusion framework (per‑sensor LSTM encoders + MLP) with stochastic modality dropout, preserving baseline accuracy when one or two sensors failed (RMSE~$\le 0.152$ Nm/kg, $R^2\ge0.88$.  
+- Designed a two‑stage {\bf Self‑Supervised Transformer}: pre‑training on AMASS + MoVi, followed by fine‑tuning; achieved {\bf RMSE = 0.102 Nm/kg, $R^2$ = 0.779} on an external dataset..  
+- Ran leave‑one‑subject‑out and transfer‑learning analyses; showed that fine‑tuning on data from {**three**} subjects suffices for generalization and identified the pelvis IMU as the most informative channel..
 
 ### Brain Age Prediction from Structural MRI  
 *SEU Student Research Training Program (SRTP)*  
