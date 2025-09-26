@@ -11,7 +11,7 @@ I'm a second-year master's student from the [BME Department](https://www.cmu.edu
 My research interests include neural engineering, brain-inspired AI, computational neuroscience, brain-computer interfaces, and deep learning.
 
 I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University.
-During my undergraduate studies, I was advised by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. Sheng Ge from the [School of Biomedical Engineering](https://bme.seu.edu.cn/), Southeast University.
+During my undergraduate studies, I was fortunately advised by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. Sheng Ge from the [School of Biomedical Engineering](https://bme.seu.edu.cn/), Southeast University.
 
 
 Research & Project
@@ -25,28 +25,28 @@ neural interfaces · computational neuroscience · brain‑inspired AI · digita
 ## Research Experience
 
 ### Neural Coding of Macaque V4 via Digital‑Twin Modeling  
-*Research Assistant, School of Computer Science & Neuroscience Institute, Carnegie Mellon University — Prof. Tai‑Sing Lee*  
+*Research Assistant, [School of Computer Science](https://www.cs.cmu.edu/) & [Neuroscience Institute](https://www.cmu.edu/ni/), [Carnegie Mellon University](https://www.cmu.edu) — Prof. [Tai‑Sing Lee](https://www.cs.cmu.edu/~tai)*  
 *Pittsburgh, USA · Sep 2024 – Present*
 
-- Integrated a deep‑learning V4 digital twin with natural‑scene stimuli, validating single‑unit tuning.  
-- Built shape‑vs‑texture stimulus batteries and proposed **Unit Preference Index** & **Distribution Dispersion** metrics.  
-- Mapped V4 selectivity: dispersion correlates with preference (*r* = 0.59, *p* < 0.01) and revealed shifts at texture–shape borders.
+- Integrated a deep-learning V4 digital twin with natural-scene and shape–texture batteries; proposed **Unit Preference Index** and Dispersity to quantify selectivity; observed **dispersion–tuning correlation**.
+- Designed 3D–2D object stimuli in Blender; identified neuron subtypes with modality-specific selectivity; indices (Dispersion, Shape–Texture) showed **consistent negative correlations** with preference.  
+- Used VLMs (Qwen-2.5-VL) to caption maximally driving stimuli, linking semantic descriptors to neural tuning profiles..
 
 ### Hands Motor Imagery via Action Observation: An EEG‑fNIRS Study  
 *Visiting Student, CenBRAIN, Westlake University — Prof. Mohamad Sawan*  
 *Hangzhou, China · Jun 2023 – Nov 2023*
 
-- Designed a BCI protocol (motor execution / imagery, picture & video cues) and collected EEG + fNIRS from 42 volunteers.  
-- Performed EEG time‑frequency analysis to characterize task‑specific neural dynamics.  
-- Applied statistical parametric mapping in Nirslab to extract fNIRS correlates of motor imagery.
+- Proposed a brain-computer interface protocol including motor execution, motor imagery, picture-guided motor imagery, and video-guided motor imagery tasks and collected EEG \& fNIRS data from 42 volunteers.
+- Conducted time-frequency analysis of EEG data, applying advanced signal processing techniques to investigate neural activity across different frequency bands.
+- Applied statistical parametric mapping to analyze fNIRS data with NIRSlab, investigating brain activity and extracting meaningful neural correlates.
 
 ### Diagnosis of Early‑Stage Parkinson’s Disease via Inertial Sensors  
 *Team Lead, Medical Imaging & AI Lab — Dr. Ping Zhou*  
 *Nanjing, China · Jan 2022 – Apr 2022*
 
-- Built an LSTM‑FCN classifier with MAML, raising diagnostic accuracy from 75 % to 80 %.  
-- Curated & augmented gait data from 110 subjects; executed denoising, axis calibration, period segmentation & zero‑padding.  
-- Benchmarked 1‑D CNN and LSTM models and applied few‑shot transfer learning for clinical robustness.
+- Developed an LSTM‑FCN classifier with Model‑Agnostic Meta‑Learning (MAML), boosting diagnostic accuracy from 75% to 80%.  
+- Collected and augmented gait data from 110 participants; performed denoising, axis calibration, period segmentation, and zero‑padding alignment.
+- Built baseline 1‑D CNN and LSTM models and executed few‑shot transfer learning to ensure robustness on limited clinical samples.
 
 ---
 
