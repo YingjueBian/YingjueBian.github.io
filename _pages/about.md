@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, this is Yingjue Bian, a second-year BME master student from CMU"
+title: "Hi, this is Yingjue Bian, a BME student"
 author_profile: true
 redirect_from: 
   - /about/
