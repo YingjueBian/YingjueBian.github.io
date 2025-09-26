@@ -72,9 +72,9 @@ neural interfaces · computational neuroscience · brain‑inspired AI · digita
 *Wearable Human Technology, Carnegie Mellon University*  
 *Pittsburgh, USA · Feb 2025 – May 2025*
 
-- Implemented a Late Fusion framework (per‑sensor LSTM encoders + MLP) with stochastic modality dropout, preserving baseline accuracy when one or two sensors failed (RMSE~$\le 0.152$ Nm/kg, $R^2\ge0.88$.  
-- Designed a two‑stage {\bf Self‑Supervised Transformer}: pre‑training on AMASS + MoVi, followed by fine‑tuning; achieved {\bf RMSE = 0.102 Nm/kg, $R^2$ = 0.779} on an external dataset..  
-- Ran leave‑one‑subject‑out and transfer‑learning analyses; showed that fine‑tuning on data from {**three**} subjects suffices for generalization and identified the pelvis IMU as the most informative channel..
+- Implemented a Late Fusion framework (per‑sensor LSTM encoders + MLP) with stochastic modality dropout, preserving baseline accuracy when one or two sensors failed (RMSE~\le 0.152$ Nm/kg, $R<sup>2</sup>\ge0.88$.  
+- Designed a two‑stage **Self‑Supervised Transformer**: pre‑training on AMASS + MoVi, followed by fine‑tuning; achieved { **RMSE** = 0.102 Nm/kg, R<sup>2</sup> = 0.779} on an external dataset..  
+- Ran leave‑one‑subject‑out and transfer‑learning analyses; showed that fine‑tuning on data from {**three**} subjects suffices for generalization and identified the pelvis IMU as the most informative channel.
 
 ### Brain Age Prediction from Structural MRI  
 *SEU Student Research Training Program (SRTP)*  
