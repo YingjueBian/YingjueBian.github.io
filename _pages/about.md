@@ -11,10 +11,7 @@ Bio
 ===
 
 I'm a second-year master's student from the [BME Department](https://www.cmu.edu/bme/), [Carnegie Mellon University](https://www.cmu.edu/), currently in the CMU BME Research Program.
-My research interests include neural engineering, brain-inspired AI, computational neuroscience, brain-computer interfaces, and deep learning.
-
 I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and the [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University.  
-
 During my undergraduate studies, I had the privilege of being mentored by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. [Sheng Ge](https://bme.seu.edu.cn/) from the School of Biomedical Engineering, Southeast University.
 
 
@@ -22,7 +19,9 @@ During my undergraduate studies, I had the privilege of being mentored by [Prof.
 My research explores neural and AI representations, aiming to bridge biological and artificial models of perception and cognition. I build digital-twin models of macaque V4, develop multimodal neural decoding with EEG, fNIRS, and wearable sensors, and investigate large-scale pretraining for speech and language. Ultimately, I seek to align and integrate representations across brain and machine, enabling them to inform and advance one another.
 
 **Interests:** 
-neural interfaces · computational neuroscience · brain‑inspired AI  · deep learning for biomedical signals · sensorimotor control · representation learning.
+Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI · Representation Learning · Multimodal
+
+**I am actively seeking PhD opportunities from 2026!**
 
 ## Research Experience
 
