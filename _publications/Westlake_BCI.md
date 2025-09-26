@@ -2,7 +2,7 @@
 title: "Mirror Neuron System in Hands Motor Imagery via Action Observation: An EEG–fNIRS Study"
 collection: publications
 permalink: /publication/bian-mns-2025
-date: 2025-01-01
+date: 2025-01-15
 venue: "Manuscript in preparation"
 authors:
   - Y. Bian
@@ -10,6 +10,8 @@ authors:
   - Y. Xu
   - W. Zheng
   - M. Sawan
-paperurl: ""
-category: "Manuscript in preparation"
+category: manuscript   # <- 若启用 publication_category，会归到“手稿类”
+paperurl: ""           # <- 若有草稿PDF/预印本就填，否则留空
 ---
+
+**Status:** Manuscript in preparation (2025).
