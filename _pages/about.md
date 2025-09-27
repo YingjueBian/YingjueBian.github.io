@@ -11,7 +11,7 @@ Bio
 ===
 
 I'm a second-year master's student from the [BME Department](https://www.cmu.edu/bme/), [Carnegie Mellon University](https://www.cmu.edu/), currently in the CMU BME Research Program.
-I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and the [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University. During my undergraduate studies, I had the privilege of being mentored by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Assoc. Prof. [Sheng Ge](https://bme.seu.edu.cn/) from the School of Biomedical Engineering, Southeast University.
+I am very fortunate to be advised by [Prof. Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/) from the [School of Computer Science](https://www.cs.cmu.edu/) and the [Neuroscience Institute](https://www.cmu.edu/ni/) at Carnegie Mellon University. During my undergraduate studies, I had the privilege of being mentored by [Prof. Mohamad Sawan](https://en.westlake.edu.cn/faculty/mohamad-sawan.html), Chair Professor at [Westlake University](https://en.westlake.edu.cn/), and by Prof. [Sheng Ge](https://bme.seu.edu.cn/2017/0919/c463a198545/page.htm) from the School of Biomedical Engineering, Southeast University.
 
 
 **Research Summary:** 
