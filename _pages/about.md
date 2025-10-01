@@ -52,12 +52,12 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 
 ## Projects
 
-### Large-Scale Multilingual S2ST Corpus Construction and Benchmarking
+### [On going] Large-Scale Multilingual S2ST Corpus Construction and Benchmarking
 *Jul 2025 - Present*
 - **Developed a 100K+ hour multilingual S2ST corpus** from YouTube auto-dubbed multi-track videos, incorporating domain-aware sampling, audio alignment, and quality filtering to address temporal asynchrony and ensure high-quality parallel speech pairs.
 - **Implemented and evaluated a transformer-based end-to-end S2ST baseline** ，using the open-source StreamSpeech (ACL’24) framework, benchmarking offline and simultaneous translation with BLEU, TER, and MCD metrics.
 
-### Exploring Unsupervised Pretraining Paradigms for Speech Representation Learning
+### [On going] Exploring Unsupervised Pretraining Paradigms for Speech Representation Learning
 *Jul 2025 - Present*
 - **Contrastive and Masked Modeling at Scale** Investigated self-supervised objectives including contrastive learning (e.g., CLIP/BLIP-inspired audio-text alignment) and masked autoencoding (AudioMAE), analyzing their scaling behavior, invariance properties, and downstream transferability.
 - **Autoregressive Pretraining vs. Causal Decoding** Compared autoregressive pretraining approaches (Apple AIM series) with non-causal masked autoencoders, evaluating the potential of causal decoding for temporally coherent speech modeling and its trade-offs against bidirectional masked objectives.
