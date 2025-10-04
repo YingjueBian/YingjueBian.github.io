@@ -72,8 +72,8 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 *Wearable Human Technology, Carnegie Mellon University*  
 *Pittsburgh, USA · Feb 2025 – May 2025*
 
-- Implemented a Late Fusion framework (per-sensor LSTM encoders + MLP) with stochastic modality dropout, preserving baseline accuracy when one or two sensors failed (RMSE &le; 0.152 Nm/kg, R<sup>2</sup> &ge; 0.88).
-- Designed a two-stage **Self-Supervised Transformer**: pre-training on AMASS + MoVi, followed by fine-tuning; achieved **RMSE = 0.102 Nm/kg, R<sup>2</sup> = 0.779** on an external dataset.
+- Implemented a Late Fusion framework (per-sensor LSTM encoders + MLP) with stochastic modality dropout, preserving baseline accuracy when one or two sensors failed.
+- Designed a two-stage **Self-Supervised Transformer**: pre-training on AMASS + MoVi, followed by fine-tuning.
 - Ran leave-one-subject-out and transfer-learning analyses; showed that fine-tuning on data from **three** subjects suffices for generalization and identified the pelvis IMU as the most informative channel.
 
 
@@ -89,7 +89,7 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 *Nanjing, China · Sep 2022 – Dec 2022*
 
 - Designed a dual‑wavelength PPG front‑end (555‑timer LED switching, OP07 amplifier, 32 Hz LP + 50 Hz notch filters).  
-- Created a LabVIEW VI for real‑time capture, AC/DC separation, and Q‑value calculation (0.65 – 0.81).  
+- Created a LabVIEW VI for real‑time capture, AC/DC separation, and Q‑value calculation.  
 - Isolated digital & analog domains to eliminate 50 Hz interference, stabilising the DC baseline for accurate SpO₂.
 
 ### Eye‑Tracking Virtual Keyboard BCI  
@@ -98,6 +98,7 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 
 - Devised a queue‑based DBSCAN variant to cluster streaming gaze points with < 5 ms latency.  
 - Fused centroid trajectories via a Kalman filter, enabling dwell‑based keystroke selection with 90 % character accuracy across 12 users.
+
 
 <!--A data-driven personal website
 ======
