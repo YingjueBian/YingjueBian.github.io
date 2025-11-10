@@ -14,5 +14,3 @@ category: manuscript   # <- 若启用 publication_category，会归到“手稿�
 # paperurl: ""           # <- 若有草稿PDF/预印本就填，否则留空
 selected: True
 ---
-
-**Status:** Manuscript in preparation (2025).
