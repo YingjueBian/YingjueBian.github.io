@@ -14,5 +14,3 @@ category: journal    # <- 若启用 publication_category，会归到“期刊类
 # paperurl: ""         # <- 有匿名稿/预印本可填链接；双盲可先留空
 selected: true     # 
 ---
-
-**Status:** Under review (2025).
