@@ -19,6 +19,7 @@ authors:
 
 category: journal    # 继续归到“Journal articles” 那一栏
 selected: true
+share: false
 
 # 如果之后有可公开 PDF，可以加这一行（现在没有就先别写）
 # paperurl: "https://yingjuebian.github.io/files/jiang_v4_2025.pdf"
