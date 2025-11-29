@@ -76,7 +76,6 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 - Designed a two-stage **Self-Supervised Transformer**: pre-training on AMASS + MoVi, followed by fine-tuning.
 - Ran leave-one-subject-out and transfer-learning analyses; showed that fine-tuning on data from **three** subjects suffices for generalization and identified the pelvis IMU as the most informative channel.
 
-
 ### Brain Age Prediction from Structural MRI  
 *SEU Student Research Training Program (SRTP)*  
 *Nanjing, China · Dec 2022 – Nov 2023*
@@ -84,20 +83,20 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 - Harmonised multi‑site T1‑weighted MRI data (OASIS, ADNI, UK Biobank) and built a full preprocessing pipeline (resampling, skull‑strip, N4, affine MNI).  
 - Fine‑tuned a pre‑trained 3‑D CNN with age‑aware smooth‑L1 loss, reducing MAE versus scratch training.
 
-### Blood‑Oxygen Sensor System  
-*Comprehensive Biomedical Design Course, SEU*  
-*Nanjing, China · Sep 2022 – Dec 2022*
-
-- Designed a dual‑wavelength PPG front‑end (555‑timer LED switching, OP07 amplifier, 32 Hz LP + 50 Hz notch filters).  
-- Created a LabVIEW VI for real‑time capture, AC/DC separation, and Q‑value calculation.  
-- Isolated digital & analog domains to eliminate 50 Hz interference, stabilising the DC baseline for accurate SpO₂.
-
 ### Eye‑Tracking Virtual Keyboard BCI  
 *SEU Student Research Training Program (SRTP)*  
 *Nanjing, China · Jan 2021 – Jan 2022*
 
 - Devised a queue‑based DBSCAN variant to cluster streaming gaze points with < 5 ms latency.  
 - Fused centroid trajectories via a Kalman filter, enabling dwell‑based keystroke selection with 90 % character accuracy across 12 users.
+
+## Honors & Awards
+
+- Biomedical Engineering Department Head’s Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
+- Academic Excellence Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
+- BME Research Excellence Award, Department of Biomedical Engineering, Carnegie Mellon University (\$6,000).
+
+
 
 
 <!--A data-driven personal website
