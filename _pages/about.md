@@ -92,9 +92,10 @@ Computational Neuroscience · Neural Interfaces · NeuroAI · Brain-Inspired AI 
 
 ## Honors & Awards
 
-- Biomedical Engineering Department Head’s Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
-- Academic Excellence Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
-- BME Research Excellence Award, Department of Biomedical Engineering, Carnegie Mellon University (\$6,000).
+- 2025 - BME Research Excellence Award, Department of Biomedical Engineering, Carnegie Mellon University (\$6,000).
+- 2024 - Biomedical Engineering Department Head’s Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
+- 2024 - Academic Excellence Fellowship, Department of Biomedical Engineering, Carnegie Mellon University (\$5,000).
+
 
 
 
