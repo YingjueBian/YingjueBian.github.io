@@ -4,24 +4,23 @@ collection: publications
 permalink: /publication/2025-bian-v4
 date: 2025-01-01
 
-# 不再用 venue 放“Manuscript in preparation”
+# 现在先不要写 venue，避免触发 “Published in ...”
 # venue: ""
 
 # 用 status 表示当前状态
-status: "Manuscript in preparation"
+status: "Submitted to arXiv"
 
-# authors 建议也和其他条目统一成列表形式（可选，但更整齐）
 authors:
   - Y. Bian
   - T. Wang
   - S. Tang
   - T.-S. Lee
 
-category: manuscript        # 归到“Manuscripts & in preparation”
+category: manuscript        # 你想把它归到 Journal 也可以改成 journal
 selected: true
 share: false
 
-# 这里已经有 PDF，会自动生成 Download Paper 链接
+# 目前建议继续指向你自己站点的 PDF（一定能访问）
 paperurl: "https://yingjuebian.github.io/files/V4.pdf"
 # codeurl: ""
 # slidesurl: ""
