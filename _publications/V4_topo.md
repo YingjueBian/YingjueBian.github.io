@@ -19,6 +19,7 @@ authors:
 
 category: manuscript        # 归到“Manuscripts & in preparation”
 selected: true
+share: false
 
 # 这里已经有 PDF，会自动生成 Download Paper 链接
 paperurl: "https://yingjuebian.github.io/files/V4.pdf"
