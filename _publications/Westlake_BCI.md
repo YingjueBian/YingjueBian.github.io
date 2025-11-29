@@ -23,4 +23,5 @@ category: manuscript   # 继续归到“Manuscripts & in preparation” 那一�
 # paperurl: "https://yingjuebian.github.io/files/bian_mns_2025.pdf"
 
 selected: true
+share: false
 ---
